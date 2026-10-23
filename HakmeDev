@@ -1,0 +1,4 @@
+#!/system/bin/sh
+# Safe placeholder: intentionally performs no privileged actions.
+echo 'HakmeDev placeholder only; no patching or hooks are implemented.'
+exit 0
