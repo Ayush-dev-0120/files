@@ -1,9 +1,0 @@
-Filename | Intended type | Architecture | Status
-sock64 | ELF executable | ARM64 | Placeholder text only
-socu64 | ELF executable | ARM64 | Placeholder text only
-socs32 | ELF executable | ARM32 | Placeholder text only
-socu32 | ELF executable | ARM32 | Placeholder text only
-TW | Text config | Any | Example JSON
-VNG | Text config | Any | Example JSON
-HakmeDev | Shell script | Android shell | Non-executing placeholder
-kernels64 | ELF / kernel module | ARM64 | Placeholder text only
