@@ -10,4 +10,6 @@
 /socu32
 /socu64
 
-/update/*
+/bgmi/*
+/build.sh
+build.bat
